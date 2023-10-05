@@ -7,3 +7,4 @@
 
  ## 2 Семинар
  git branch - вывести все ветки
+ git branch name
