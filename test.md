@@ -7,3 +7,5 @@
 
  ## 2 Семинар
  git branch - вывести все ветки
+ git log - выводит коммиты
+ git log --graph
