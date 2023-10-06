@@ -9,4 +9,6 @@
  git branch - вывести все ветки
  git branch name
  git log - выводит коммиты
+ git view - показ Константину
+ ## Константин увидел
  git log --graph
